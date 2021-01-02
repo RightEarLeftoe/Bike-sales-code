@@ -1,0 +1,3 @@
+﻿  Project Program.cpp
+  C:\Users\David\source\repos\Project Program\Project Program\Project Program.cpp(332) : warning C4715: 'accountNew': not all control paths return a value
+  Project Program.vcxproj -> C:\Users\David\source\repos\Project Program\Debug\Project Program.exe
